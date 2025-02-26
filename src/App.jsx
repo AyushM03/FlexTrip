@@ -2,7 +2,7 @@ import { useState } from "react";
 
 import Navigation from "./navigation/Nav";
 import Products from "./Products/Products";
-import products from "./db/data";
+import products from "./db/Data";
 import Recommended from "./Recommended/Recommended";
 import Sidebar from "./Sidebar/Sidebar";
 import Card from "./components/Card";
