@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import Navigation from "./Navigation/Nav";
+import Navigation from "./navigation/Nav";
 import Products from "./Products/Products";
 import products from "./db/data";
 import Recommended from "./Recommended/Recommended";
